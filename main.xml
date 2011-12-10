@@ -425,6 +425,12 @@ h3.post-title {
 .avatar-image-container {
   margin: .2em 0 0;
 }
+/* blockquote */
+.tr_bq{
+	border:1px solid gray;
+	padding:4px;
+	background-color:#d3d3d3;
+}
 
 /* Comments
 ----------------------------------------------- */
@@ -1843,3 +1849,4 @@ html .mobile .mobile-date-outer, html .mobile .blog-pager {
 </b:includable>
 </b:widget>
 </b:section-contents><b:section-contents id='footer-1'/><b:section-contents id='footer-2-1'/><b:section-contents id='footer-2-2'/></html>
+                
